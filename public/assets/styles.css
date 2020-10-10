@@ -22,10 +22,10 @@ body{
     align-items: center;
 }
 .todo {
-    width: 400px;
+    width: 401px;
 }
 .todo-container h2 {
-    padding: 40px;
+    padding: 41px;
     font-family: 'Candal', sans-serif;
     font-size: 2em;
 }
